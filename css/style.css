@@ -1,0 +1,73 @@
+@import url(https://fonts.google.com/specimen/Open+Sans?query=open);
+:root{
+	
+}
+body{
+	font-family: 'OpenSans', sans-serif;
+	font-size: 15px;
+	color:#040404  (--color-base);
+	font-weight: 400;
+}
+.sticky{
+	position: fixed;
+	width: 100%;
+	background-color:#fff;
+	}
+#hero{
+	background-color: #292929;
+	padding: 5% 0 0;
+	font-weight: 300;
+	
+}
+#hero h1{
+	font-size: 30px;
+	color: #edeff5;
+	font-weight: 600;
+}
+#hero p{
+	color: aliceblue
+}
+.btn-principal{
+	background-color: #f74f4c;
+	padding: 5px 30px;
+	color: #fff;
+	font-size: 12px;
+	text-transform: uppercase;
+	border-radius: 25px;
+	letter-spacing: 1px;
+	font-weight: 100;
+
+}
+
+#download{
+	background-color: #292929
+	
+}
+
+#download .titulo-sections h2{
+	font-size: 90px;
+	color: #fff;
+	width: 300px;
+	margin: 0 auto;
+		
+}
+
+#download h4{
+	color: #fff;
+	font-size: 0px;
+	margin: 40px 0;
+	
+}
+.btn-app{
+	border: 1px solid #fff;
+	width: 300px;
+	margin: 0 auto;
+	border-radius: 40px;
+	color: #fff;
+	padding: 10px 30px;
+	font-size: 13px;
+	margin-left: 15px;
+	
+	
+	
+
